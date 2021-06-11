@@ -1,0 +1,15 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "p"
+        },
+        "th:object": {},
+        "th:action": {},
+        "th:each": {
+            "context": "div"
+        },
+        "th:field": {},
+        "th:href": {}
+    }
+}
