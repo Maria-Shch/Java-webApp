@@ -6,6 +6,7 @@
         },
         "th:object": {},
         "th:action": {},
+        "th:errors": {},
         "th:each": {
             "context": "div"
         },
