@@ -1,8 +1,11 @@
 package ru.shcherbatykh.models;
 
+import org.springframework.data.annotation.Id;
+
 public class Person {
-    private int id;
-    private String name;
+    @Id
+    public Integer id;
+    public String name;
 
     public Person() {
     }

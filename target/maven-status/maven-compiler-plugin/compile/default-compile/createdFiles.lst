@@ -1,6 +1,6 @@
 ru\shcherbatykh\codesjava\DispatcherServletInitializer.class
-ru\shcherbatykh\controllers\HomeController.class
 ru\shcherbatykh\models\Person.class
 ru\shcherbatykh\codesjava\Config.class
+ru\shcherbatykh\dao\PersonRepo.class
 ru\shcherbatykh\controllers\PeopleController.class
 ru\shcherbatykh\dao\PersonDAO.class
